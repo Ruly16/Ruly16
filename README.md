@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack developer from Honduras</h3>
 <h2>=====================================</h2>
 
-[![](https://visitcount.itsvg.in/api?id=Ruly16&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruly16&label=Profile%20views&color=0e75b6&style=flat" alt="ruly16" /> </p>
 <h2>=====================================</h2>
 
 ✅I’m a disciplined person with great adaptability skillsk learner.
